@@ -1,3 +1,101 @@
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=ivosahlik" alt="ivosahlik" /> 
+    <img src="https://img.shields.io/github/followers/ivosahlik?style=social" />
+    <img src="https://img.shields.io/github/stars/ivosahlik/ivosahlik?style=social" />
+    <img src="https://img.shields.io/github/watchers/ivosahlik/ivosahlik?style=social" />
+    <img src="https://img.shields.io/github/size/ivosahlik/ivosahlik/README.md" />
+    <img src="https://img.shields.io/github/last-commit/ivosahlik/ivosahlik" />
+    <img src="https://img.shields.io/github/contributors/ivosahlik/ivosahlik" />   
+    <img src="https://badge.fury.io/gh/ivosahlik%2Fivosahlik.svg" />  
+    
+</p>
+
+<h4 align="left">A passionate Senior Java Software Engineer working at <b>Localhost</b> </a> from Czech Republic</h4>
+
+<p align="left"> 
+    <a href="https://github.com/ivoshalik/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=ivoshalik&theme=onedark" alt="ivoshalik" />
+    </a>
+</p>
+
+
+## 📖 About Me
+
+<table style="width:100%; border-collapse:collapse;">
+   <tr>
+      <th style="border:1px solid #ddd; padding:6px; text-align:left;">Field</th>
+      <th style="border:1px solid #ddd; padding:6px; text-align:left;">Details</th>
+   </tr>
+   <tr>
+      <td style="border:1px solid #ddd; padding:6px;">Introduce Myself</td>
+      <td style="border:1px solid #ddd; padding:6px;">🌝 Hi, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20" alt="wave"> I’m <strong>Ivo Vošahlík</strong> 💻 from Czech Republic</td>
+   </tr>
+   <tr>
+      <td style="border:1px solid #ddd; padding:6px;">Resume</td>
+      <td style="border:1px solid #ddd; padding:6px;">
+          <ul style="margin:0 0 0 18px;">
+            <li><a href="https://shorturl.at/BaoKs" target="_blank" rel="noopener">View</a></li>
+         </ul>
+      </td>
+   </tr>
+</table>
+
+## 🗂️ Latest Projects & 📕 Latest Blog Posts
+
+<table style="width:100%; border-collapse:collapse;">
+  <thead>
+    <tr>
+      <th colspan="4" style="border:1px solid #ddd; padding:8px; text-align:left;">Latest Projects</th>
+      <th colspan="4" style="border:1px solid #ddd; padding:8px; text-align:left;">Latest Blog Posts</th>
+    </tr>
+    <tr>
+      <!-- Projects subheaders -->
+      <th style="border:1px solid #ddd; padding:6px; width:5rem;">#</th>
+      <th style="border:1px solid #ddd; padding:6px; width:10rem;">Title</th>
+      <th style="border:1px solid #ddd; padding:6px; width:8rem;">Link</th>
+      <th style="border:1px solid #ddd; padding:6px; width:5rem;">Date</th>
+      <!-- Blog subheaders -->
+      <th style="border:1px solid #ddd; padding:6px; width:5rem;">#</th>
+      <th style="border:1px solid #ddd; padding:6px; width:10rem;">Title</th>
+      <th style="border:1px solid #ddd; padding:6px; width:8rem;">Link</th>
+      <th style="border:1px solid #ddd; padding:6px; width:5rem;">Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <!-- Projects -->
+      <td style="border:1px solid #ddd; padding:6px; text-align:center;">1</td>
+      <td style="border:1px solid #ddd; padding:6px; white-space:nowrap;">
+        API, todo
+      </td>
+      <td style="border:1px solid #ddd; padding:6px;">
+        <a href="https://github.com/ivoshlik/todo" target="_blank" rel="noopener">View</a>
+      </td>
+      <td style="border:1px solid #ddd; padding:6px;">
+        October, 2025
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+## 📬 Get in touch
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="www.linkedin.com/in/ivo-vošahlík-520916107" target="_blank" rel="noopener noreferrer">
+          <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" width="30" height="30">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">LinkedIn</td>
+    </tr>
+  </tbody>
+</table>
+
+
 ## 📚 Language and Tools
 <table width="100%">
   <tr>
