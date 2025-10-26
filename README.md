@@ -68,3 +68,19 @@
     </td>
   </tr>
 </table>
+
+## &#x1f4c8; My GitHub Stats
+
+<a href="https://github.com/ivosahlik">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivosahlik&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/ivosahlik">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ivosahlik&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="ivosahlik's GitHub Stats" />
+</a>
+
+
+<a href="https://github.com/ivosahlik">
+  <img align="center" src="https://streak-stats.demolab.com?user=ivosahlik&theme=dark" alt="ivosahlik's GitHub Stats" />
+</a>
+
