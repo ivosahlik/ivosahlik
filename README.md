@@ -54,11 +54,6 @@
       <th style="border:1px solid #ddd; padding:6px; width:10rem;">Title</th>
       <th style="border:1px solid #ddd; padding:6px; width:8rem;">Link</th>
       <th style="border:1px solid #ddd; padding:6px; width:5rem;">Date</th>
-      <!-- Blog subheaders -->
-      <th style="border:1px solid #ddd; padding:6px; width:5rem;">#</th>
-      <th style="border:1px solid #ddd; padding:6px; width:10rem;">Title</th>
-      <th style="border:1px solid #ddd; padding:6px; width:8rem;">Link</th>
-      <th style="border:1px solid #ddd; padding:6px; width:5rem;">Date</th>
     </tr>
   </thead>
   <tbody>
