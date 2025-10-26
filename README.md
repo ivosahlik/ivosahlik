@@ -33,13 +33,12 @@
    </tr>
 </table>
 
-## 🗂️ Latest Projects & 📕 Latest Blog Posts
+## 🗂️ Latest Projects
 
 <table style="width:100%; border-collapse:collapse;">
   <thead>
     <tr>
       <th colspan="4" style="border:1px solid #ddd; padding:8px; text-align:left;">Latest Projects</th>
-      <th colspan="4" style="border:1px solid #ddd; padding:8px; text-align:left;">Latest Blog Posts</th>
     </tr>
     <tr>
       <!-- Projects subheaders -->
