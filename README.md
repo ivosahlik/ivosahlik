@@ -12,13 +12,6 @@
 
 <h4 align="left">A passionate Senior Java Software Engineer working at <b>Localhost</b> </a> from Czech Republic</h4>
 
-<p align="left"> 
-    <a href="https://github.com/ivoshalik/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=ivoshalik&theme=onedark" alt="ivoshalik" />
-    </a>
-</p>
-
-
 ## 📖 About Me
 
 <table style="width:100%; border-collapse:collapse;">
