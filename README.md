@@ -84,7 +84,7 @@
   <tbody>
     <tr>
       <td align="center">
-        <a href="www.linkedin.com/in/ivo-vošahlík-520916107" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.linkedin.com/in/ivo-vo%C5%A1ahl%C3%ADk-520916107/" target="_blank" rel="noopener noreferrer">
           <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" width="30" height="30">
         </a>
       </td>
