@@ -142,6 +142,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="40" height="40"/>
+      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="TypeScript" width="40" height="40"/>
     </td>
     <!-- 3x1: Monitoring & Quality -->
     <td id="3x1" valign="top">
